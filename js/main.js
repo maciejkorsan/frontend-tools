@@ -1,1 +1,1 @@
-"use strict";console.log("Hello world 🚀"),alert("pozdro techno");
+"use strict";console.log("Hello world 🚀");
