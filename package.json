@@ -25,6 +25,7 @@
     "@babel/register": "^7.4.4",
     "autoprefixer": "^9.5.1",
     "browser-sync": "^2.26.5",
+    "gh-pages": "^2.0.1",
     "gulp": "^4.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-notify": "^3.2.0",
